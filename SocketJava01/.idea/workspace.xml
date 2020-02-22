@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SocketJava01:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="468e1c1b-f72b-4f72-a5ef-7e9d8741c5b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XpwLSBaJMvfolh3k3CQTU7SceM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Socket" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Client2">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="SocketJava01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client2" />
+      <module name="SocketJava01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client3" />
+      <module name="SocketJava01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="SocketJava01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="listtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listtest" />
+      <module name="SocketJava01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.listtest" />
+      <item itemvalue="Application.Client2" />
+      <item itemvalue="Application.Client3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client2" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Client3" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.listtest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="468e1c1b-f72b-4f72-a5ef-7e9d8741c5b7" name="Default Changelist" comment="" />
+      <created>1581756287580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581756287580</updated>
+      <workItem from="1581756291770" duration="920000" />
+      <workItem from="1581757376970" duration="563000" />
+      <workItem from="1581757954770" duration="8187000" />
+      <workItem from="1581820477633" duration="18813000" />
+      <workItem from="1581854511027" duration="1232000" />
+      <workItem from="1581904301912" duration="14422000" />
+      <workItem from="1581989014754" duration="20381000" />
+      <workItem from="1582188311069" duration="12918000" />
+      <workItem from="1582201855814" duration="924000" />
+      <workItem from="1582248791937" duration="19793000" />
+      <workItem from="1582334935414" duration="9288000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="185" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581997578334">
+      <screen x="0" y="0" width="1459" height="864" />
+    </state>
+    <state x="185" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1459.864@0.0.1459.864" timestamp="1581997578334" />
+    <state x="433" y="249" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581842397935">
+      <screen x="0" y="0" width="1459" height="864" />
+    </state>
+    <state x="433" y="249" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1459.864@0.0.1459.864" timestamp="1581842397935" />
+    <state x="511" y="188" key="FileChooserDialogImpl" timestamp="1581761480837">
+      <screen x="0" y="0" width="1459" height="864" />
+    </state>
+    <state x="511" y="188" key="FileChooserDialogImpl/0.0.1459.864@0.0.1459.864" timestamp="1581761480837" />
+    <state width="638" height="332" key="GridCell.Tab.0.bottom" timestamp="1582345302799">
+      <screen x="0" y="0" width="1459" height="864" />
+    </state>
+    <state width="638" height="332" key="GridCell.Tab.0.bottom/0.0.1459.864@0.0.1459.864" timestamp="1582345302799" />
+    <state width="638" height="332" key="GridCell.Tab.0.center" timestamp="1582345302799">
+      <screen x="0" y="0" width="1459" height="864" />
+    </state>
+    <state width="638" height="332" key="GridCell.Tab.0.center/0.0.1459.864@0.0.1459.864" timestamp="1582345302799" />
+    <state width="638" height="332" key="GridCell.Tab.0.left" timestamp="1582345302799">
+      <screen x="0" y="0" width="1459" height="864" />
+    </state>
+    <state width="638" height="332" key="GridCell.Tab.0.left/0.0.1459.864@0.0.1459.864" timestamp="1582345302799" />
+    <state width="638" height="332" key="GridCell.Tab.0.right" timestamp="1582345302799">
+      <screen x="0" y="0" width="1459" height="864" />
+    </state>
+    <state width="638" height="332" key="GridCell.Tab.0.right/0.0.1459.864@0.0.1459.864" timestamp="1582345302799" />
+    <state width="927" height="204" key="GridCell.Tab.1.bottom" timestamp="1582345024867">
+      <screen x="0" y="0" width="1459" height="864" />
+    </state>
+    <state width="927" height="204" key="GridCell.Tab.1.bottom/0.0.1459.864@0.0.1459.864" timestamp="1582345024867" />
+    <state width="927" height="204" key="GridCell.Tab.1.center" timestamp="1582345024867">
+      <screen x="0" y="0" width="1459" height="864" />
+    </state>
+    <state width="927" height="204" key="GridCell.Tab.1.center/0.0.1459.864@0.0.1459.864" timestamp="1582345024867" />
+    <state width="927" height="204" key="GridCell.Tab.1.left" timestamp="1582345024866">
+      <screen x="0" y="0" width="1459" height="864" />
+    </state>
+    <state width="927" height="204" key="GridCell.Tab.1.left/0.0.1459.864@0.0.1459.864" timestamp="1582345024866" />
+    <state width="927" height="204" key="GridCell.Tab.1.right" timestamp="1582345024867">
+      <screen x="0" y="0" width="1459" height="864" />
+    </state>
+    <state width="927" height="204" key="GridCell.Tab.1.right/0.0.1459.864@0.0.1459.864" timestamp="1582345024867" />
+    <state x="204" y="111" width="996" height="707" key="SettingsEditor" timestamp="1581996675991">
+      <screen x="0" y="0" width="1459" height="864" />
+    </state>
+    <state x="204" y="111" width="996" height="707" key="SettingsEditor/0.0.1459.864@0.0.1459.864" timestamp="1581996675991" />
+    <state x="140" y="128" key="new project wizard" timestamp="1582349409737">
+      <screen x="0" y="0" width="1459" height="864" />
+    </state>
+    <state x="140" y="128" key="new project wizard/0.0.1459.864@0.0.1459.864" timestamp="1582349409737" />
+    <state x="393" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1582021444096">
+      <screen x="0" y="0" width="1459" height="864" />
+    </state>
+    <state x="393" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1459.864@0.0.1459.864" timestamp="1582021444096" />
+  </component>
+</project>

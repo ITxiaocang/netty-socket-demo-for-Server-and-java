@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Main-Class: Server
+Class-Path: netty-transport-native-epoll-4.1.32.Final.jar netty-codec-ht
+ tp-4.1.32.Final.jar netty-handler-4.1.32.Final.jar engine.io-client-1.0
+ .0.jar jackson-annotations-2.9.0.jar netty-transport-4.1.32.Final.jar o
+ kio-1.13.0.jar okhttp-3.8.1.jar netty-resolver-4.1.32.Final.jar netty-b
+ uffer-4.1.32.Final.jar netty-codec-4.1.32.Final.jar netty-socketio-1.7.
+ 17.jar slf4j-api-1.7.21.jar socket.io-client-1.0.0.jar json-20090211.ja
+ r netty-transport-native-unix-common-4.1.32.Final.jar slf4j-nop-1.7.2.j
+ ar netty-common-4.1.32.Final.jar jackson-core-2.9.7.jar jackson-databin
+ d-2.9.7.jar
+

@@ -1,0 +1,30 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="SocketJava01:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SocketJava01_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SocketJava01.jar">
+        <element id="module-output" name="SocketJava01" />
+      </element>
+      <element id="library" level="project" name="Maven: io.netty:netty-transport-native-epoll:4.1.32.Final" />
+      <element id="library" level="project" name="Maven: io.netty:netty-codec-http:4.1.32.Final" />
+      <element id="library" level="project" name="Maven: io.netty:netty-handler:4.1.32.Final" />
+      <element id="library" level="project" name="Maven: io.socket:engine.io-client:1.0.0" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0" />
+      <element id="library" level="project" name="Maven: io.netty:netty-transport:4.1.32.Final" />
+      <element id="library" level="project" name="Maven: com.squareup.okio:okio:1.13.0" />
+      <element id="library" level="project" name="Maven: com.squareup.okhttp3:okhttp:3.8.1" />
+      <element id="library" level="project" name="Maven: io.netty:netty-resolver:4.1.32.Final" />
+      <element id="library" level="project" name="Maven: io.netty:netty-buffer:4.1.32.Final" />
+      <element id="library" level="project" name="Maven: io.netty:netty-codec:4.1.32.Final" />
+      <element id="library" level="project" name="Maven: com.corundumstudio.socketio:netty-socketio:1.7.17" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.21" />
+      <element id="library" level="project" name="Maven: io.socket:socket.io-client:1.0.0" />
+      <element id="library" level="project" name="Maven: org.json:json:20090211" />
+      <element id="library" level="project" name="Maven: io.netty:netty-transport-native-unix-common:4.1.32.Final" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-nop:1.7.2" />
+      <element id="library" level="project" name="Maven: io.netty:netty-common:4.1.32.Final" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.7" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.7" />
+    </root>
+  </artifact>
+</component>
